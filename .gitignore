@@ -1,0 +1,12 @@
+*.o
+*.obj
+*.out
+*.app
+*.exe
+*.dSYM/
+puzzle
+.DS_Store
+.AppleDouble
+.LSOverride
+build/
+bin/
